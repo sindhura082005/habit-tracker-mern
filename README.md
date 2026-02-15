@@ -160,19 +160,3 @@ While exploring habit-tracking tools, I noticed most quality apps were locked be
 * [ ] Mobile App using React Native
 
 ---
-
-## 🙋 Author
-
-**Developed by [THODEM VENKATA DINESH REDDY](https://github.com/ThodemDinesh)**
-Open to contributions, feedback, or collaboration.
-Feel free to fork the repo, open issues, or reach out!
-
----
-
-<<<<<<< HEAD
-⭐ If you found this helpful or interesting, please give the repository a star!
-
-
-=======
-⭐ If you found this helpful or interesting, please give the repository a star!
->>>>>>> dd258fb (Updated habit controller, routes, and components)
